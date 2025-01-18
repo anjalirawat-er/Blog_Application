@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;JwtAuthResponse.java&apos; to &apos;blogapp-apis/src/main/java/com.blog.payloads&apos;&#x0A;- Original project: &apos;blogapp-apis&apos;&#x0A;- Destination element: &apos;blogapp-apis/src/main/java/com.blog.payloads&apos;&#x0A;- Original element: &apos;com.blog.security.JwtAuthResponse.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.blog.payloads" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.blog.security{JwtAuthResponse.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1732087994818" units="1" version="1.0"/>
+</session>
